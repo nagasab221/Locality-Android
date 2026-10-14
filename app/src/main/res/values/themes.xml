@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash/base window colors match the 5arye near-black so launch doesn't flash white -->
+    <style name="Theme.Locality" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0D0D0D</item>
+        <item name="android:statusBarColor">#0D0D0D</item>
+        <item name="android:navigationBarColor">#0D0D0D</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
