@@ -5,6 +5,8 @@ media server. It indexes nothing of its own — everything comes from the deskto
 streamed over the network or from bundles downloaded into the app's private storage for
 offline viewing.
 
+**[Download the latest APK](https://github.com/nagasab221/Locality-Android/releases/latest)** · Android 8.0+ · sideload or `adb install`
+
 Kotlin · Jetpack Compose · Media3/ExoPlayer · Retrofit/OkHttp · Room · Coil
 Dark "5arye" theme, ported token-for-token from the desktop's `tailwind.config.cjs`.
 
